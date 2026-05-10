@@ -70,7 +70,7 @@
 ## 📫 Let's Connect
 
 <div align="center">
-  <img height="200" width="350" src="https://giffiles.alphacoders.com/116/11664.gif" />
+  <img height="200" width="350" src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil" />
 </div>
 
 <br>
