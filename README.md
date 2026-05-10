@@ -70,7 +70,7 @@
 ## 📫 Let's Connect
 
 <div align="center">
-  <img height="200" width="350" src="https://giphy.com/gifs/cyber-cybersecurity-cybersecurityassessment-2i7jspnRBYgg6v4Oki/giphy.gif" />
+  <img height="200" width="350" src="https://giphy.com/gifs/cyber-cybersecurity-cybersecurityassessment-2i7jspnRBYgg6v4Oki.gif" />
 </div>
 
 <br>
