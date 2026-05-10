@@ -82,13 +82,10 @@
 
 </div>
 
-<br><br>
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=santiagoxox&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br><br>
 
 <img src="https://raw.githubusercontent.com/santiagoxox/santiagoxox/output/github-contribution-grid-snake-dark.svg?v=1" />
 
