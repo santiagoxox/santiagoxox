@@ -82,9 +82,10 @@
 
 
 <div align="center">
-<img height="200" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZvaWlhZ3k5aG5teHVzZTRhZmJnbG9xZmkxcHRscTkxNGt4aWNoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2i7jspnRBYgg6v4Oki/giphy.gif" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=santiagoxox&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img height="200" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZvaWlhZ3k5aG5teHVzZTRhZmJnbG9xZmkxcHRscTkxNGt4aWNoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2i7jspnRBYgg6v4Oki/giphy.gif" />
 
 <img src="https://raw.githubusercontent.com/santiagoxox/santiagoxox/output/github-contribution-grid-snake-dark.svg?v=1" />
 
