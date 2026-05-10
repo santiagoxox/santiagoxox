@@ -70,7 +70,7 @@
 ## 📫 Let's Connect
 
 <div align="center">
-  <img height="200" width="350" src="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil" />
+  <img height="200" width="350" src="https://giphy.com/gifs/cyber-cybersecurity-cybersecurityassessment-2i7jspnRBYgg6v4Oki/giphy.gif" />
 </div>
 
 <br>
