@@ -22,8 +22,6 @@
 
 ---
 
-
-
 ##  Skills
 
 <div align="center">
@@ -68,22 +66,23 @@
 | 🔵 Certified Digital Forensics Professional (eCDFP) | INE Security | 2024 | [Verify Here](https://certs.ine.com/a6ee8d07-07fa-40fc-abde-23e93083f1ee#acc.uAPCijpz) |
 
 ---
-<!--
-## 📊 GitHub Activity
+
+## 📫 Let's Connect
+
+<div align="center">
+  <img height="200" width="350" src="https://giffiles.alphacoders.com/116/11664.gif" />
+</div>
+
+<br>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=santiagoxox&theme=dark&hide_border=true)
+[![Gmail](https://img.shields.io/badge/Email-ahmedebrahim01097%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedebrahim01097@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Attia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/1ahmedibrahim1)
 
 </div>
----
--->
-## 🤝 Connect
 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/1ahmedibrahim1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedebrahim01097@gmail.com)
-</div>
+<br><br>
 
 <div align="center">
 
