@@ -81,18 +81,16 @@
 ## 🤝 Connect
 
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/1ahmedibrahim1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedebrahim01097@gmail.com)
-
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=santiagoxox&color=db0000&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=santiagoxox&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/santiagoxox/santiagoxox/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/santiagoxox/santiagoxox/output/github-contribution-grid-snake-dark.svg?v=1" />
 
 </div>
