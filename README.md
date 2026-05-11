@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Cybersecurity+M.Sc.+Student;Always+learning...)](https://git.io/typing-svg)
 
-⚠️ Most of my security research and academic projects are kept private due to confidentiality
+⚠️ Most of my security research and academic projects are kept private due to confidentiality ⚠️
 
 </div>
 
